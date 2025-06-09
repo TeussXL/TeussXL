@@ -46,12 +46,3 @@ Aqui estão algumas das tecnologias que utilizo e com as quais tenho experiênci
     </td>
 </table>
   
-
-## Onde me encontrar
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mateus.rodrigo@aluno.ifsp.edu.br" alt="Gmail"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_.wftm4teo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" alt="Instagram"/></a>
-</p>
