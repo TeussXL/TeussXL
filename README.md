@@ -34,11 +34,19 @@ Aqui estão algumas das tecnologias que utilizo e com as quais tenho experiênci
 <br/>
 
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=TeussXL&theme=dark)]
+![TeussXL](https://github-readme-stats.vercel.app/api?username=TeussXL&theme=dark)
 
+<table>
+<td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeussXL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+</table>
+  
 
-![TeussXL](https://github-readme-stats.vercel.app/api/top-langs/?username=TeussXL&hide=html&layout=compact&theme=dark)
----
 ## Onde me encontrar
 
 <p align="left">
