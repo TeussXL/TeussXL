@@ -2,14 +2,14 @@
 
 ## Sobre mim
 
-- 🤓 Explorando novas tecnologias e apaixonado por tecnologias.
-- 🎓 Estudando como Técnico de Informática para Internet pelo IFSP-CAR.
-- 👾 Buscando aprendizado contínuo na área de TI
-- 🤯 Sempre em busca de aprimorar minhas habilidades e expandir meu conhecimento.
+-  Explorando novas tecnologias e apaixonado por tecnologias.
+-  Estudando como Técnico de Informática para Internet pelo IFSP-CAR.
+-  Buscando aprendizado contínuo na área de TI
+-  Sempre em busca de aprimorar minhas habilidades e expandir meu conhecimento.
 ---
-## 🐱‍👤 Minhas Skills
+## Minhas Skills
 
-Aqui estão algumas das tecnologias que utilizo e com as quais tenho experiência:
+Aqui estão algumas das tecnologias que utilizo e com as quais tenho experiência e que estou estudando:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
